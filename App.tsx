@@ -530,7 +530,6 @@ function App() {
                             className="flex items-center justify-center px-6 py-3 bg-white border border-slate-300 text-slate-700 font-medium rounded-xl hover:bg-slate-50 hover:text-slate-900 transition-colors shadow-sm"
                         >
                             <RefreshCw className="w-4 h-4 mr-2" /> Start New Session
-                          
                         </button>
                     </div>
                 </div>
